@@ -18,7 +18,7 @@ Users can:
 - View results instantly
 
 ---
-VIDEO LINK :- https://drive.google.com/file/d/133Fs0fc02Q3lUBAVazl41nhHf0MXGWnz/view?usp=drive_link
+VIDEO LINK :- https://drive.google.com/file/d/133Fs0fc02Q3lUBAVazl41nhHf0MXGWnz/view?usp=sharing
 ## ✨ Features
 
 - Dynamic Array Creation
